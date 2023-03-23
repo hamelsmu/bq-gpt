@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bq-gpt"
+  site-url: "https://hamelsmu.github.io/bq-gpt"
+  description: "gpt for big query"
+  repo-branch: main
+  repo-url: "https://github.com/hamelsmu/bq-gpt"
